@@ -1,0 +1,1 @@
+Obsidian es un editor de texto muy limpio. Lastima que no es open source :C
